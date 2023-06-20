@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Github for Developers!"
 ---
 
-Caption here
+Let's write some code!
 
-![skatetocat](https://octodex.github.com/images/skatetocat.png)
+![Let's write some code! Boy that kitten is cute!](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47md59e02fdtdxentrkwx3abydpblp9eoarq3siit2&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 {: .center}
